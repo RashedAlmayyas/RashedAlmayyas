@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👋 Hi, I’m @RashedAlmayyas
+👀 I’m interested in development  
+🌱 I’m currently learning both 
+💞️ I’m looking to collaborate on 
+📫 How to reach me ... Linkedin: https://www.linkedin.com/in/rashed-almayyas-alghwari-a5328b244/ Email: mayyasalghware@gmail.com.
+
 <!--
 **RashedAlmayyas/RashedAlmayyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
