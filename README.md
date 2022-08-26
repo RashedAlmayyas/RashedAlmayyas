@@ -2,8 +2,8 @@
 
 👋 Hi, I’m @RashedAlmayyas.<br/>
 👀 I’m interested in development . <br/>
-🌱 I’m currently learning both. <br/>
-💞️ I’m looking to collaborate on .<br/>
+🌱 I’m currently learning . <br/>
+💞️  I look forward to collaborating on any assignments (web app).<br/>
 📫 How to reach me ... <br/>Linkedin: https://www.linkedin.com/in/rashed-almayyas-alghwari-a5328b244/<br/> Email: mayyasalghware@gmail.com.
 
 <!--
